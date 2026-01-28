@@ -144,3 +144,7 @@ srv_gen
 *Feedback.msg
 *Goal.msg
 *Result.msg
+raw_dataset_sim.pkl
+lerobot_dataset/
+__pycache__/
+*.log*
